@@ -9,4 +9,4 @@
 
 상세페이지 및 공유하기 ( favicon & open graph 有 )
 
-<img scr="https://user-images.githubusercontent.com/23518342/107822179-04b4b700-6dc1-11eb-8ad2-51d94ee649d1.PNG">
+<img src="https://user-images.githubusercontent.com/23518342/107822179-04b4b700-6dc1-11eb-8ad2-51d94ee649d1.PNG">
